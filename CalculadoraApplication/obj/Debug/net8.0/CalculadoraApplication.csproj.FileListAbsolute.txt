@@ -1,0 +1,14 @@
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\bin\Debug\net8.0\CalculadoraApplication.exe
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\bin\Debug\net8.0\CalculadoraApplication.deps.json
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\bin\Debug\net8.0\CalculadoraApplication.runtimeconfig.json
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\bin\Debug\net8.0\CalculadoraApplication.dll
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\bin\Debug\net8.0\CalculadoraApplication.pdb
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.AssemblyInfoInputs.cache
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.AssemblyInfo.cs
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.csproj.CoreCompileInputs.cache
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.dll
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\refint\CalculadoraApplication.dll
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.pdb
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\CalculadoraApplication.genruntimeconfig.cache
+C:\Codigos\C#\tdd-testeunitario\CalculadoraApplication\obj\Debug\net8.0\ref\CalculadoraApplication.dll
